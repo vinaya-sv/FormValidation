@@ -1,0 +1,14 @@
+.outer{
+  border:3px solid red;
+  width:50%;
+  border-radius:10px;
+  margin:5%;
+  background-color: rgb(253, 220, 200);
+}
+input{
+  width:50%;
+}
+.label{
+  text-align:left;
+  margin-left:20%;
+}
